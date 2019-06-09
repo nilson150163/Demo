@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+<file name="VisRelPDF.dll">
+<typelib tlbid="{4B2870B8-E0C6-4FB2-9499-2BBA8CE1A4EF}" version="1.0" helpdir=""/>
+<comClass clsid="{5D56A757-010C-4ACD-9D02-19AE432BD6BD}" progid="VisRelPDF20.PDFDocument" threadingModel="both" tlbid="{4B2870B8-E0C6-4FB2-9499-2BBA8CE1A4EF}"/>
+<comClass clsid="{E2D6C513-1219-4EEE-8B10-176C8F290E14}" progid="VisRelPDF20.Page" threadingModel="both" tlbid="{4B2870B8-E0C6-4FB2-9499-2BBA8CE1A4EF}"/>
+<comClass clsid="{70EEB6BF-6968-4FDC-8789-E205C1281D81}" progid="VisRelPDF20.DocumentInfo" threadingModel="both" tlbid="{4B2870B8-E0C6-4FB2-9499-2BBA8CE1A4EF}"/>
+<comClass clsid="{C9C1301A-7234-4902-8A2C-AAF6AA7E166D}" progid="VisRelPDF20.EMF2PDFOptions" threadingModel="both" tlbid="{4B2870B8-E0C6-4FB2-9499-2BBA8CE1A4EF}"/>
+</file>
+</assembly>
